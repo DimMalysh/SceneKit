@@ -13,6 +13,7 @@
 		04E6B66820723A720076E5EB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E6B66620723A720076E5EB /* Main.storyboard */; };
 		04E6B66A20723A720076E5EB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04E6B66920723A720076E5EB /* Assets.xcassets */; };
 		04E6B66D20723A720076E5EB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 04E6B66B20723A720076E5EB /* LaunchScreen.storyboard */; };
+		04E6B675207271420076E5EB /* Coin.dae in Resources */ = {isa = PBXBuildFile; fileRef = 04E6B674207271410076E5EB /* Coin.dae */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		04E6B66920723A720076E5EB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		04E6B66C20723A720076E5EB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		04E6B66E20723A720076E5EB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04E6B674207271410076E5EB /* Coin.dae */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml.dae; path = Coin.dae; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				04E6B66920723A720076E5EB /* Assets.xcassets */,
 				04E6B66B20723A720076E5EB /* LaunchScreen.storyboard */,
 				04E6B66E20723A720076E5EB /* Info.plist */,
+				04E6B674207271410076E5EB /* Coin.dae */,
 			);
 			path = SceneKitTest;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04E6B675207271420076E5EB /* Coin.dae in Resources */,
 				04E6B66320723A720076E5EB /* art.scnassets in Resources */,
 				04E6B66D20723A720076E5EB /* LaunchScreen.storyboard in Resources */,
 				04E6B66A20723A720076E5EB /* Assets.xcassets in Resources */,
